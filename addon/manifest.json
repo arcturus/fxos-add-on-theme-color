@@ -1,0 +1,17 @@
+{
+  "name": "Theme Color",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Firefos OS addon for adding theme color to some webs",
+  "permissions": [],
+  "author": "Francisco Jordano",
+  "content_scripts": [
+    {
+      "matches": ["https://m.facebook.com/*"],
+      "js": ["js/index.js"]
+    }
+  ],
+  "icons": {
+    "128": "icons/128.png"
+  }
+}

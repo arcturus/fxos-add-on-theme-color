@@ -1,0 +1,9 @@
+{
+  "name" : "Add-on Theme-Color",
+  "description": "Firefox OS add-on that adds theme color to some sites",
+  "developer": { "name": "Francisco Jordano <francisco@jordano.es>" },
+  "package_path": "extension.zip",
+  "icons": {
+    "128": "/icons/128.png"
+  }
+}
