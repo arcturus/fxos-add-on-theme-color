@@ -20,6 +20,10 @@ For doing this we need to add an extra header to our document, with the followin
 
 The ```name``` parameter defines that we want to use the ```theme-color``` property to change the color to the value specified in the ```content``` attribute.
 
+We could see some web pages already doing this, below you can see an example how reddit does and how the top of the browser changes color to adapt to the web page colors:
+
+![reddit example](https://raw.github.com/arcturus/fxos-add-on-theme-color/master/reddit-theme-color.png)
+
 
 How we do create an add-on for Firefox OS to do this?
 -----------------------------------------------------
